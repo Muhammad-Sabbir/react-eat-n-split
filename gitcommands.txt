@@ -9,6 +9,6 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 08: Practice Project Eat-'N-Split>> Lecture 6: Adding a New Friend"
+git commit -m "Chapter 08: Practice Project Eat-'N-Split>> Lecture 7: Selecting a Friend"
 git push -u origin main
 
