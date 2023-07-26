@@ -1,0 +1,14 @@
+echo "# react-eat-n-split" >> README.md
+git init
+git add README.md
+git commit -m "Chapter 08: Practice Project Eat-'N-Split>> Lecture 6: Adding a New Friend"
+git branch -M main
+git remote add origin https://github.com/Muhammad-Sabbir/react-eat-n-split.git
+git push -u origin main
+
+
+
+git add --all
+git commit -m "Chapter 08: Practice Project Eat-'N-Split>> Lecture 6: Adding a New Friend"
+git push -u origin main
+
